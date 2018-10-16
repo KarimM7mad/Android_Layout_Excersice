@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2_KarimM7mad</string>
+    <string name="midText">Hello World</string>
+    <string name="cairoText">Cairo</string>
+    <string name="alexText">Alexandria</string>
+    <string name="aswanText">Aswan</string>
+
+
+</resources>
